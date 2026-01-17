@@ -21,7 +21,7 @@
 All data stays on your device. You can delete all app data by uninstalling the app.
 
 ### Contact
-For questions: omertass3@gmail.com
+For questions: omertaas03@gmail.com
 
 ---
 
@@ -44,4 +44,4 @@ For questions: omertass3@gmail.com
 Tüm veriler cihazınızda kalır. Uygulamayı silerek tüm verileri silebilirsiniz.
 
 ### İletişim
-Sorularınız için: omertass3@gmail.com
+Sorularınız için: omertaas03@gmail.com
